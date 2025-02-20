@@ -1,0 +1,21 @@
+.slot{
+    height: 400px;
+    background-color: black;
+    align-items: center;
+    padding-left: 20px;
+    overflow: auto;
+}
+.card{
+    background-color: rgb(95, 95, 95);
+    width: 200px;
+    height: 320px;  
+    margin-right:20px;
+}
+.card-img-top{
+    height:150px ;
+    width: 190px;
+    margin: auto; ;
+}
+.card-footer{
+    justify-content: space-between;
+}
